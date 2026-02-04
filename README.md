@@ -11,4 +11,7 @@ make -C build
 
 
 # Usage
+
+```
 ./build/image-fader <im_path1> <im_path2>
+```

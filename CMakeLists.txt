@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(soclp-1 LANGUAGES CXX)
+project(image-fader LANGUAGES CXX)
 
 #set(CMAKE_C_STANDARD 99)
 set(CMAKE_CXX_STANDARD 17)
